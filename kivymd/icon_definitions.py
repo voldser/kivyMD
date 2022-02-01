@@ -6479,6 +6479,7 @@ md_icons = {
     "vpn": "\U000F0582",
     "vuejs": "\U000F0844",
     "vuetify": "\U000F0E6D",
+    "vk": u"\U000F0579",
     "walk": "\U000F0583",
     "wall": "\U000F07FE",
     "wall-sconce": "\U000F091C",
