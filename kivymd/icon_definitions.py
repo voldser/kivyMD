@@ -6377,6 +6377,7 @@ md_icons = {
     "vector-triangle": "\U000F0563",
     "vector-union": "\U000F0564",
     "vhs": "\U000F0A1B",
+    "vk": "\U000F0579",
     "vibrate": "\U000F0566",
     "vibrate-off": "\U000F0CD9",
     "video": "\U000F0567",
